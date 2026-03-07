@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Duncan Patel",
+    "age": 25,
+    "gender": "male",
+    "bio": ""
+  },
+  {
+    "id": 2,
+    "name": "Zoey Brooks",
+    "age": 18,
+    "gender": "female",
+    "bio": ""
+  },
+  {
+    "id": 3,
+    "name": "Alex Morgan",
+    "age": 20,
+    "gender": "non-binary",
+    "bio": ""
+  },
+  {
+    "id": 4,
+    "name": "Cody Nguyen",
+    "age": 22,
+    "gender": "male",
+    "bio": ""
+  },
+  {
+    "id": 5,
+    "name": "Lindsay Johnson",
+    "age": 19,
+    "gender": "female",
+    "bio": ""
+  },
+  {
+    "id": 6,
+    "name": "Riley Smith",
+    "age": 24,
+    "gender": "non-binary",
+    "bio": ""
+  }
+]

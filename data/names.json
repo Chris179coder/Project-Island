@@ -1,0 +1,36 @@
+{
+  "male": [
+    "Tyler",
+    "Brandon",
+    "Duncan",
+    "Owen",
+    "Cody",
+    "Dwayne",
+    "Gavin",
+    "Liam",
+    "Ethan",
+    "Marcus"
+  ],
+  "female": [
+    "Heather",
+    "Courtney",
+    "Zoey",
+    "Beth",
+    "Sierra",
+    "Lindsay",
+    "Kerry",
+    "Raven",
+    "Paige",
+    "Ava"
+  ],
+  "neutral": [
+    "Alex",
+    "Riley",
+    "Jordan",
+    "Taylor",
+    "Casey",
+    "Skyler",
+    "Rowan",
+    "Quinn"
+  ]
+}
